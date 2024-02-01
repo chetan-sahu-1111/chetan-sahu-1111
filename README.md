@@ -31,9 +31,12 @@ I have successfully completed projects that demonstrate my proficiency in both d
 
 Feel free to connect with me to discuss collaborations, share insights, or explore opportunities in the exciting fields of Web Development and Data Science.
 
-[GitHub: YourGitHubUsername](https://github.com/chetan-sahu-1111)
+[GitHub:](https://github.com/chetan-sahu-1111)
 
-[LinkedIn: YourLinkedInProfile](https://www.linkedin.com/in/chetan-sahu-5b1b5b205/)
+[LinkedIn:](https://www.linkedin.com/in/chetan-sahu-5b1b5b205/)
+
+[Portfolio:](https://chetan-sahu-1111.github.io/portfolio/)
+
 
 ---
 
