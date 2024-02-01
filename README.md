@@ -18,9 +18,9 @@ I am a passionate and dedicated student with a keen interest in both Web Develop
   
 **👩‍💻 Web Development Skills:**
 
-- Frontend: HTML, CSS, JavaScript, ReactJS
+- Frontend: HTML, CSS, JavaScript, ReactJS, NextJS
 - Backend: Node.js, Express.js, Django (Python), Flask (Python)
-- Full Stack: MERN (MongoDB, Express.js, ReactJS, Node.js), MEAN (MongoDB, Express.js, Angular, Node.js)
+- Full Stack: MERN (MongoDB, Express.js, ReactJS, Node.js)
 
 
 **💼 Projects:**
@@ -31,11 +31,7 @@ I have successfully completed projects that demonstrate my proficiency in both d
 
 Feel free to connect with me to discuss collaborations, share insights, or explore opportunities in the exciting fields of Web Development and Data Science.
 
-[GitHub:](https://github.com/chetan-sahu-1111)
-
-[LinkedIn:](https://www.linkedin.com/in/chetan-sahu-5b1b5b205/)
-
-[Portfolio:](https://chetan-sahu-1111.github.io/portfolio/)
+[GitHub](https://github.com/chetan-sahu-1111)  [LinkedIn](https://www.linkedin.com/in/chetan-sahu-5b1b5b205/)  [Portfolio:](https://chetan-sahu-1111.github.io/portfolio/)
 
 
 ---
