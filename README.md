@@ -29,7 +29,7 @@ I have successfully completed projects that demonstrate my proficiency in both d
 
 **🌐 Connect With Me:**
 
-🔗 [GitHub](https://github.com/chetan-sahu-1111)      🔗 [LinkedIn](https://www.linkedin.com/in/chetan-sahu-5b1b5b205/)      🔗 [Portfolio](https://chetan-sahu-1111.github.io/portfolio/)
+🔗 [GitHub](https://github.com/chetan-sahu-1111)      🔗 [LinkedIn](https://www.linkedin.com/in/chetanssahu/)      🔗 [Portfolio](https://chetan-sahu-1111.github.io/portfolio/)
 
 
 ---
